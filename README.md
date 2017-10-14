@@ -1,1 +1,1 @@
-Режим вывода команд на экран (ECHO) включен.
+APOD-Space-Wallpaper is a small python script for Windows OS, which downloads new astronomy picture of the day (APOD) from https://apod.nasa.gov/apod/ and sets it as a desktop wallpaper. It also downloads the description of the picture and saves it to the text file. You can make this script run every day with Windows scheduler, thus you will have new APOD wallpaper every day.
